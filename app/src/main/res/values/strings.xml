@@ -3,4 +3,6 @@
     <string name="home">首页</string>
     <string name="order">收藏</string>
     <string name="my">我的</string>
+
+    <string name="profit_setting">分润方设置</string>
 </resources>
